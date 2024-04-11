@@ -1,2 +1,2 @@
-# Zaawansowane CPP Szachownica
- Szachownica zaimplementowana w C++
+# Chessboard
+ Chessboard game written in C++
